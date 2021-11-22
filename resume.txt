@@ -1,0 +1,70 @@
+<html>
+<title>sample resume</title>
+<body>
+	<img src="20761A0592.jpg" length="150" breadth="100" alt="photo not found" align="right">
+	<b>Name:</b>K.Neeraja<br>
+	<b>ID NO:</b>20761A0592<br>
+	<b>Contact no:</b>7842138765<br>
+	<b>Email ID:</b>neerajakaranki@gmail.com<br>
+	<b>Address:</b>Penumalli<br>
+	<b>Dept:</b>CSE<br>
+	<b>Objectives:</b><br>
+	to secure a better position in the desired company<br>
+	<b>Educational Qualifications:</b><br>
+	<table border="1">
+	<tr>
+		<th>sno.</th>
+		<th>Education</th>
+		<th>Year of study</th>
+		<th>Grade</th>
+		<th>Place of study</th>
+	</tr>
+	<tr>
+		<td>1</td>
+		<td>B.Tech</td>
+		<td>2020-2024</td>
+		<td>9.74</td>
+		<td>Mylavaram</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>Intermediate</td>
+		<td>2018-2020</td>
+		<td>9.57</td>
+		<td>Gudivada</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>SSC</td>
+		<td>2017-2018</td>
+		<td>10.0</td>
+		<td>Penumalli</td>
+	</tr>
+	</table>
+	<b>Technical Qualifications:</b><br>
+	<ul type="disc">
+	<li>skilled in ORACLE</li>
+	<li>skilled in programming languages like c,python</li>
+	<li>skilled in MYSQL</li>
+	</ul>
+	<b>Workshops attended:</b><br>
+	<ul type="disc">
+	<li>attended a workshop at asd company,Kondapalli</li>
+	</ul>
+	<b>Achievements:</b><br>
+	<ul type="square">
+	<li>Won gold medal in Badminton</li>
+	<li>First prize in Elocution</li>
+	</ul>
+	<b>My Strengths:</b><br>
+	<ul type="square">
+	<li>self motivating</li>
+	<li>soft skills</li>
+	<li>good communication skills</li>
+	</ul>
+	<b>Declaration:</b><br>
+	I hereby declare that, the above mentioned details are true as per my knowledge.
+	<h3 align="right">Signature</h3>
+	<h4 align="right">Neeraja</h4>
+</body>
+</html>	
