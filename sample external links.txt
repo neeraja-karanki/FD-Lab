@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>External linking</title>
+</head>
+<body>
+<h2>External linking</h2>
+<a href="D:/20761A0592/form.html" target=blank><marquee direction="right"><font color="green"><u>CLICK HERE TO SEE REGISTRATION FORM</u></font></marquee></a><br>
+</body>
+</html>
+
+
