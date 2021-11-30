@@ -1,0 +1,53 @@
+<html>
+<head>
+<title>Internal linking</title>
+</head>
+<body>
+<p id="top">top of the page</p>
+<a href=#bottom>CLICK HERE TO SEE THE BOTTOM OF THE PAGE</a>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+links.........<br>
+<a href=#top>CLICK HERE TO  SEE THE TOP OF THE PAGE</a>
+<p id="bottom">bottom of the page</p>
+</body>
+</html>
